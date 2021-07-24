@@ -2,7 +2,7 @@
 - 🎯 Target (Mern stack)
 - 🌱 I’m currently working on react.js
 - 🙃 Ask me about javascript 
-- 💞️ I like to play cricket
+- 💞️ Love to playing & watching cricket.
 - 📫 Reach me instagram.com/kapoor__shourya 
 
 <!---
