@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ujjawal kapoor 
 - 🎯 Target (Mern stack)
 - 🌱 I’m currently working on react.js
-- 🙃 Ask me about javascript 
+- 🙃 Ask me about javascript.
 - 💞️ Love to playing & watching cricket.
 - 📫 Reach me instagram.com/kapoor__shourya 
 
