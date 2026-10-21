@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ujjawal Kapoor</h1>
 
-<h3 align="center">🚀 Full Stack Developer | MEAN & MERN Stack | 4+ Years Experience</h3>
+<h3 align="center">🚀 Full Stack Developer | Java FSD, MEAN & MERN Stack | 4+ Years Experience</h3>
 
 ---
 
 ### 👨‍💻 About Me
 - 💼 Full Stack Developer with **4+ years of experience** in building scalable web applications  
-- 🎯 Specialized in **MEAN (MongoDB, Express, Angular, Node.js)** and **MERN (MongoDB, Express, React, Node.js)** stacks  
+- 🎯 Specialized in **MEAN (MongoDB, Express, Angular, Node.js)**, **MERN (MongoDB, Express, React, Node.js)** &  **MERN (Mysql, Java, React, SpringBoot, Hibernate, React)** stacks  
 - 🌱 Currently deep-diving into **advanced React & system design**  
 - 💡 Strong understanding of **JavaScript, REST APIs, and frontend architecture**  
 - ⚡ Passionate about writing clean, maintainable, and performant code  
@@ -15,8 +15,8 @@
 
 ### 🛠️ Tech Stack
 - **Frontend:** Angular, React.js, JavaScript (ES6+), HTML5, CSS3  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
+- **Backend:** Node.js, Express.js, Java, Spring Boot 
+- **Database:** MongoDB, Mysql
 - **Tools & Others:** Git, GitHub, Postman, REST APIs  
 
 ---
