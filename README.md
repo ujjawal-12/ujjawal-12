@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 - 💼 Full Stack Developer with **4+ years of experience** in building scalable web applications  
-- 🎯 Specialized in **MEAN (MongoDB, Express, Angular, Node.js)**, **MERN (MongoDB, Express, React, Node.js)** &  **MERN (Mysql, Java, React, SpringBoot, Hibernate, React)** stacks  
+- 🎯 Specialized in **MEAN (MongoDB, Express, Angular, Node.js)**, **MERN (MongoDB, Express, React, Node.js)** &  **Java FSD (Mysql, Java, React, SpringBoot, Hibernate, React)** stacks  
 - 🌱 Currently deep-diving into **advanced React & system design**  
 - 💡 Strong understanding of **JavaScript, REST APIs, and frontend architecture**  
 - ⚡ Passionate about writing clean, maintainable, and performant code  
